@@ -3,3 +3,9 @@ Point: 2 Comments: comment 2
 # Omit{'puntuacion': '4', 'comment': 'malo'} 
 punto: 3 comentario: hola 
 punto: 5 comentario: hola 
+punto: 4 comentario: bueno 
+punto: 5 comentario: bueno 
+punto: 6 comentario: & C:/Users/Windows/AppData/Local/Programs/Python/Python312/python.exe c:/python/sample.py 
+punto: 7 comentario: & C:/Users/Windows/AppData/Local/Programs/Python/Python312/python.exe c:/python/sample.py 
+punto: 6 comentario: & C:/Users/Windows/AppData/Local/Programs/Python/Python312/python.exe c:/python/sample.py 
+punto: 6 comentario: malo 
